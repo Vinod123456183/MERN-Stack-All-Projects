@@ -1,0 +1,477 @@
+[
+  "https://www.tradingview-widget.com/embed-widget/symbol-overview/?locale=en#{\"symbols\":[[\"COINBASE:BTCUSD|1M\"]],\"chartOnly\":false,\"width\":\"100%\",\"height\":450,\"colorTheme\":\"light\",\"showVolume\":false,\"showMA\":false,\"hideDateRanges\":false,\"hideMarketStatus\":false,\"hideSymbolLogo\":false,\"scalePosition\":\"right\",\"scaleMode\":\"Normal\",\"fontFamily\":\"-apple-system, BlinkMacSystemFont, Trebuchet MS, Roboto, Ubuntu, sans-serif\",\"fontSize\":\"10\",\"noTimeScale\":false,\"valuesTracking\":\"1\",\"changeMode\":\"price-and-percent\",\"chartType\":\"area\",\"maLineColor\":\"#2962FF\",\"maLineWidth\":1,\"maLength\":9,\"headerFontSize\":\"medium\",\"lineWidth\":2,\"lineType\":0,\"dateRanges\":[\"1d|1\",\"1m|30\",\"3m|60\",\"12m|1D\",\"60m|1W\",\"all|1M\"],\"utm_source\":\"example.com\",\"utm_medium\":\"widget\",\"utm_campaign\":\"symbol-overview\",\"page-uri\":\"example.com\"}",
+
+  "https://www.tradingview-widget.com/embed-widget/symbol-overview/?locale=en#{\"symbols\":[[\"COINBASE:ETHUSD|1M\"]],\"chartOnly\":false,\"width\":\"100%\",\"height\":450,\"colorTheme\":\"light\",\"showVolume\":false,\"showMA\":false,\"hideDateRanges\":false,\"hideMarketStatus\":false,\"hideSymbolLogo\":false,\"scalePosition\":\"right\",\"scaleMode\":\"Normal\",\"fontFamily\":\"-apple-system, BlinkMacSystemFont, Trebuchet MS, Roboto, Ubuntu, sans-serif\",\"fontSize\":\"10\",\"noTimeScale\":false,\"valuesTracking\":\"1\",\"changeMode\":\"price-and-percent\",\"chartType\":\"area\",\"maLineColor\":\"#2962FF\",\"maLineWidth\":1,\"maLength\":9,\"headerFontSize\":\"medium\",\"lineWidth\":2,\"lineType\":0,\"dateRanges\":[\"1d|1\",\"1m|30\",\"3m|60\",\"12m|1D\",\"60m|1W\",\"all|1M\"],\"utm_source\":\"example.com\",\"utm_medium\":\"widget\",\"utm_campaign\":\"symbol-overview\",\"page-uri\":\"example.com\"}",
+
+  "https://www.tradingview-widget.com/embed-widget/symbol-overview/?locale=en#{\"symbols\":[[\"COINBASE:XRPUSD|1M\"]],\"chartOnly\":false,\"width\":\"100%\",\"height\":450,\"colorTheme\":\"light\",\"showVolume\":false,\"showMA\":false,\"hideDateRanges\":false,\"hideMarketStatus\":false,\"hideSymbolLogo\":false,\"scalePosition\":\"right\",\"scaleMode\":\"Normal\",\"fontFamily\":\"-apple-system, BlinkMacSystemFont, Trebuchet MS, Roboto, Ubuntu, sans-serif\",\"fontSize\":\"10\",\"noTimeScale\":false,\"valuesTracking\":\"1\",\"changeMode\":\"price-and-percent\",\"chartType\":\"area\",\"maLineColor\":\"#2962FF\",\"maLineWidth\":1,\"maLength\":9,\"headerFontSize\":\"medium\",\"lineWidth\":2,\"lineType\":0,\"dateRanges\":[\"1d|1\",\"1m|30\",\"3m|60\",\"12m|1D\",\"60m|1W\",\"all|1M\"],\"utm_source\":\"example.com\",\"utm_medium\":\"widget\",\"utm_campaign\":\"symbol-overview\",\"page-uri\":\"example.com\"}",
+  "https://www.tradingview-widget.com/embed-widget/symbol-overview/?locale=en#{\"symbols\":[[\"COINBASE:BCHUSD|1M\"]],\"chartOnly\":false,\"width\":\"100%\",\"height\":450,\"colorTheme\":\"light\",\"showVolume\":false,\"showMA\":false,\"hideDateRanges\":false,\"hideMarketStatus\":false,\"hideSymbolLogo\":false,\"scalePosition\":\"right\",\"scaleMode\":\"Normal\",\"fontFamily\":\"-apple-system, BlinkMacSystemFont, Trebuchet MS, Roboto, Ubuntu, sans-serif\",\"fontSize\":\"10\",\"noTimeScale\":false,\"valuesTracking\":\"1\",\"changeMode\":\"price-and-percent\",\"chartType\":\"area\",\"maLineColor\":\"#2962FF\",\"maLineWidth\":1,\"maLength\":9,\"headerFontSize\":\"medium\",\"lineWidth\":2,\"lineType\":0,\"dateRanges\":[\"1d|1\",\"1m|30\",\"3m|60\",\"12m|1D\",\"60m|1W\",\"all|1M\"],\"utm_source\":\"example.com\",\"utm_medium\":\"widget\",\"utm_campaign\":\"symbol-overview\",\"page-uri\":\"example.com\"}",
+  "https://www.tradingview-widget.com/embed-widget/symbol-overview/?locale=en#{\"symbols\":[[\"COINBASE:LTCUSD|1M\"]],\"chartOnly\":false,\"width\":\"100%\",\"height\":450,\"colorTheme\":\"light\",\"showVolume\":false,\"showMA\":false,\"hideDateRanges\":false,\"hideMarketStatus\":false,\"hideSymbolLogo\":false,\"scalePosition\":\"right\",\"scaleMode\":\"Normal\",\"fontFamily\":\"-apple-system, BlinkMacSystemFont, Trebuchet MS, Roboto, Ubuntu, sans-serif\",\"fontSize\":\"10\",\"noTimeScale\":false,\"valuesTracking\":\"1\",\"changeMode\":\"price-and-percent\",\"chartType\":\"area\",\"maLineColor\":\"#2962FF\",\"maLineWidth\":1,\"maLength\":9,\"headerFontSize\":\"medium\",\"lineWidth\":2,\"lineType\":0,\"dateRanges\":[\"1d|1\",\"1m|30\",\"3m|60\",\"12m|1D\",\"60m|1W\",\"all|1M\"],\"utm_source\":\"example.com\",\"utm_medium\":\"widget\",\"utm_campaign\":\"symbol-overview\",\"page-uri\":\"example.com\"}",
+  "https://www.tradingview-widget.com/embed-widget/symbol-overview/?locale=en#{\"symbols\":[[\"COINBASE:XLMUSD|1M\"]],\"chartOnly\":false,\"width\":\"100%\",\"height\":450,\"colorTheme\":\"light\",\"showVolume\":false,\"showMA\":false,\"hideDateRanges\":false,\"hideMarketStatus\":false,\"hideSymbolLogo\":false,\"scalePosition\":\"right\",\"scaleMode\":\"Normal\",\"fontFamily\":\"-apple-system, BlinkMacSystemFont, Trebuchet MS, Roboto, Ubuntu, sans-serif\",\"fontSize\":\"10\",\"noTimeScale\":false,\"valuesTracking\":\"1\",\"changeMode\":\"price-and-percent\",\"chartType\":\"area\",\"maLineColor\":\"#2962FF\",\"maLineWidth\":1,\"maLength\":9,\"headerFontSize\":\"medium\",\"lineWidth\":2,\"lineType\":0,\"dateRanges\":[\"1d|1\",\"1m|30\",\"3m|60\",\"12m|1D\",\"60m|1W\",\"all|1M\"],\"utm_source\":\"example.com\",\"utm_medium\":\"widget\",\"utm_campaign\":\"symbol-overview\",\"page-uri\":\"example.com\"}",
+  "https://www.tradingview-widget.com/embed-widget/symbol-overview/?locale=en#{\"symbols\":[[\"COINBASE:WBTCUSD|1M\"]],\"chartOnly\":false,\"width\":\"100%\",\"height\":450,\"colorTheme\":\"light\",\"showVolume\":false,\"showMA\":false,\"hideDateRanges\":false,\"hideMarketStatus\":false,\"hideSymbolLogo\":false,\"scalePosition\":\"right\",\"scaleMode\":\"Normal\",\"fontFamily\":\"-apple-system, BlinkMacSystemFont, Trebuchet MS, Roboto, Ubuntu, sans-serif\",\"fontSize\":\"10\",\"noTimeScale\":false,\"valuesTracking\":\"1\",\"changeMode\":\"price-and-percent\",\"chartType\":\"area\",\"maLineColor\":\"#2962FF\",\"maLineWidth\":1,\"maLength\":9,\"headerFontSize\":\"medium\",\"lineWidth\":2,\"lineType\":0,\"dateRanges\":[\"1d|1\",\"1m|30\",\"3m|60\",\"12m|1D\",\"60m|1W\",\"all|1M\"],\"utm_source\":\"example.com\",\"utm_medium\":\"widget\",\"utm_campaign\":\"symbol-overview\",\"page-uri\":\"example.com\"}",
+  "https://www.tradingview-widget.com/embed-widget/symbol-overview/?locale=en#{\"symbols\":[[\"COINBASE:WETHUSD|1M\"]],\"chartOnly\":false,\"width\":\"100%\",\"height\":450,\"colorTheme\":\"light\",\"showVolume\":false,\"showMA\":false,\"hideDateRanges\":false,\"hideMarketStatus\":false,\"hideSymbolLogo\":false,\"scalePosition\":\"right\",\"scaleMode\":\"Normal\",\"fontFamily\":\"-apple-system, BlinkMacSystemFont, Trebuchet MS, Roboto, Ubuntu, sans-serif\",\"fontSize\":\"10\",\"noTimeScale\":false,\"valuesTracking\":\"1\",\"changeMode\":\"price-and-percent\",\"chartType\":\"area\",\"maLineColor\":\"#2962FF\",\"maLineWidth\":1,\"maLength\":9,\"headerFontSize\":\"medium\",\"lineWidth\":2,\"lineType\":0,\"dateRanges\":[\"1d|1\",\"1m|30\",\"3m|60\",\"12m|1D\",\"60m|1W\",\"all|1M\"],\"utm_source\":\"example.com\",\"utm_medium\":\"widget\",\"utm_campaign\":\"symbol-overview\",\"page-uri\":\"example.com\"}",
+  "https://www.tradingview-widget.com/embed-widget/symbol-overview/?locale=en#{\"symbols\":[[\"COINBASE:AVAXUSD|1M\"]],\"chartOnly\":false,\"width\":\"100%\",\"height\":450,\"colorTheme\":\"light\",\"showVolume\":false,\"showMA\":false,\"hideDateRanges\":false,\"hideMarketStatus\":false,\"hideSymbolLogo\":false,\"scalePosition\":\"right\",\"scaleMode\":\"Normal\",\"fontFamily\":\"-apple-system, BlinkMacSystemFont, Trebuchet MS, Roboto, Ubuntu, sans-serif\",\"fontSize\":\"10\",\"noTimeScale\":false,\"valuesTracking\":\"1\",\"changeMode\":\"price-and-percent\",\"chartType\":\"area\",\"maLineColor\":\"#2962FF\",\"maLineWidth\":1,\"maLength\":9,\"headerFontSize\":\"medium\",\"lineWidth\":2,\"lineType\":0,\"dateRanges\":[\"1d|1\",\"1m|30\",\"3m|60\",\"12m|1D\",\"60m|1W\",\"all|1M\"],\"utm_source\":\"example.com\",\"utm_medium\":\"widget\",\"utm_campaign\":\"symbol-overview\",\"page-uri\":\"example.com\"}",
+  "https://www.tradingview-widget.com/embed-widget/symbol-overview/?locale=en#{\"symbols\":[[\"COINBASE:DOGEUSD|1M\"]],\"chartOnly\":false,\"width\":\"100%\",\"height\":450,\"colorTheme\":\"light\",\"showVolume\":false,\"showMA\":false,\"hideDateRanges\":false,\"hideMarketStatus\":false,\"hideSymbolLogo\":false,\"scalePosition\":\"right\",\"scaleMode\":\"Normal\",\"fontFamily\":\"-apple-system, BlinkMacSystemFont, Trebuchet MS, Roboto, Ubuntu, sans-serif\",\"fontSize\":\"10\",\"noTimeScale\":false,\"valuesTracking\":\"1\",\"changeMode\":\"price-and-percent\",\"chartType\":\"area\",\"maLineColor\":\"#2962FF\",\"maLineWidth\":1,\"maLength\":9,\"headerFontSize\":\"medium\",\"lineWidth\":2,\"lineType\":0,\"dateRanges\":[\"1d|1\",\"1m|30\",\"3m|60\",\"12m|1D\",\"60m|1W\",\"all|1M\"],\"utm_source\":\"example.com\",\"utm_medium\":\"widget\",\"utm_campaign\":\"symbol-overview\",\"page-uri\":\"example.com\"}",
+  "https://www.tradingview-widget.com/embed-widget/symbol-overview/?locale=en#{\"symbols\":[[\"COINBASE:SHIBUSD|1M\"]],\"chartOnly\":false,\"width\":\"100%\",\"height\":450,\"colorTheme\":\"light\",\"showVolume\":false,\"showMA\":false,\"hideDateRanges\":false,\"hideMarketStatus\":false,\"hideSymbolLogo\":false,\"scalePosition\":\"right\",\"scaleMode\":\"Normal\",\"fontFamily\":\"-apple-system, BlinkMacSystemFont, Trebuchet MS, Roboto, Ubuntu, sans-serif\",\"fontSize\":\"10\",\"noTimeScale\":false,\"valuesTracking\":\"1\",\"changeMode\":\"price-and-percent\",\"chartType\":\"area\",\"maLineColor\":\"#2962FF\",\"maLineWidth\":1,\"maLength\":9,\"headerFontSize\":\"medium\",\"lineWidth\":2,\"lineType\":0,\"dateRanges\":[\"1d|1\",\"1m|30\",\"3m|60\",\"12m|1D\",\"60m|1W\",\"all|1M\"],\"utm_source\":\"example.com\",\"utm_medium\":\"widget\",\"utm_campaign\":\"symbol-overview\",\"page-uri\":\"example.com\"}",
+  "https://www.tradingview-widget.com/embed-widget/symbol-overview/?locale=en#{\"symbols\":[[\"COINBASE:PEPEUSD|1M\"]],\"chartOnly\":false,\"width\":\"100%\",\"height\":450,\"colorTheme\":\"light\",\"showVolume\":false,\"showMA\":false,\"hideDateRanges\":false,\"hideMarketStatus\":false,\"hideSymbolLogo\":false,\"scalePosition\":\"right\",\"scaleMode\":\"Normal\",\"fontFamily\":\"-apple-system, BlinkMacSystemFont, Trebuchet MS, Roboto, Ubuntu, sans-serif\",\"fontSize\":\"10\",\"noTimeScale\":false,\"valuesTracking\":\"1\",\"changeMode\":\"price-and-percent\",\"chartType\":\"area\",\"maLineColor\":\"#2962FF\",\"maLineWidth\":1,\"maLength\":9,\"headerFontSize\":\"medium\",\"lineWidth\":2,\"lineType\":0,\"dateRanges\":[\"1d|1\",\"1m|30\",\"3m|60\",\"12m|1D\",\"60m|1W\",\"all|1M\"],\"utm_source\":\"example.com\",\"utm_medium\":\"widget\",\"utm_campaign\":\"symbol-overview\",\"page-uri\":\"example.com\"}",
+  "https://www.tradingview-widget.com/embed-widget/symbol-overview/?locale=en#{\"symbols\":[[\"COINBASE:ARBUSD|1M\"]],\"chartOnly\":false,\"width\":\"100%\",\"height\":450,\"colorTheme\":\"light\",\"showVolume\":false,\"showMA\":false,\"hideDateRanges\":false,\"hideMarketStatus\":false,\"hideSymbolLogo\":false,\"scalePosition\":\"right\",\"scaleMode\":\"Normal\",\"fontFamily\":\"-apple-system, BlinkMacSystemFont, Trebuchet MS, Roboto, Ubuntu, sans-serif\",\"fontSize\":\"10\",\"noTimeScale\":false,\"valuesTracking\":\"1\",\"changeMode\":\"price-and-percent\",\"chartType\":\"area\",\"maLineColor\":\"#2962FF\",\"maLineWidth\":1,\"maLength\":9,\"headerFontSize\":\"medium\",\"lineWidth\":2,\"lineType\":0,\"dateRanges\":[\"1d|1\",\"1m|30\",\"3m|60\",\"12m|1D\",\"60m|1W\",\"all|1M\"],\"utm_source\":\"example.com\",\"utm_medium\":\"widget\",\"utm_campaign\":\"symbol-overview\",\"page-uri\":\"example.com\"}",
+  "https://www.tradingview-widget.com/embed-widget/symbol-overview/?locale=en#{\"symbols\":[[\"COINBASE:OPUSD|1M\"]],\"chartOnly\":false,\"width\":\"100%\",\"height\":450,\"colorTheme\":\"light\",\"showVolume\":false,\"showMA\":false,\"hideDateRanges\":false,\"hideMarketStatus\":false,\"hideSymbolLogo\":false,\"scalePosition\":\"right\",\"scaleMode\":\"Normal\",\"fontFamily\":\"-apple-system, BlinkMacSystemFont, Trebuchet MS, Roboto, Ubuntu, sans-serif\",\"fontSize\":\"10\",\"noTimeScale\":false,\"valuesTracking\":\"1\",\"changeMode\":\"price-and-percent\",\"chartType\":\"area\",\"maLineColor\":\"#2962FF\",\"maLineWidth\":1,\"maLength\":9,\"headerFontSize\":\"medium\",\"lineWidth\":2,\"lineType\":0,\"dateRanges\":[\"1d|1\",\"1m|30\",\"3m|60\",\"12m|1D\",\"60m|1W\",\"all|1M\"],\"utm_source\":\"example.com\",\"utm_medium\":\"widget\",\"utm_campaign\":\"symbol-overview\",\"page-uri\":\"example.com\"}",
+  "https://www.tradingview-widget.com/embed-widget/symbol-overview/?locale=en#{\"symbols\":[[\"COINBASE:LINKUSD|1M\"]],\"chartOnly\":false,\"width\":\"100%\",\"height\":450,\"colorTheme\":\"light\",\"showVolume\":false,\"showMA\":false,\"hideDateRanges\":false,\"hideMarketStatus\":false,\"hideSymbolLogo\":false,\"scalePosition\":\"right\",\"scaleMode\":\"Normal\",\"fontFamily\":\"-apple-system, BlinkMacSystemFont, Trebuchet MS, Roboto, Ubuntu, sans-serif\",\"fontSize\":\"10\",\"noTimeScale\":false,\"valuesTracking\":\"1\",\"changeMode\":\"price-and-percent\",\"chartType\":\"area\",\"maLineColor\":\"#2962FF\",\"maLineWidth\":1,\"maLength\":9,\"headerFontSize\":\"medium\",\"lineWidth\":2,\"lineType\":0,\"dateRanges\":[\"1d|1\",\"1m|30\",\"3m|60\",\"12m|1D\",\"60m|1W\",\"all|1M\"],\"utm_source\":\"example.com\",\"utm_medium\":\"widget\",\"utm_campaign\":\"symbol-overview\",\"page-uri\":\"example.com\"}",
+  "https://www.tradingview-widget.com/embed-widget/symbol-overview/?locale=en#{\"symbols\":[[\"COINBASE:USDTUSD|1M\"]],\"chartOnly\":false,\"width\":\"100%\",\"height\":450,\"colorTheme\":\"light\",\"showVolume\":false,\"showMA\":false,\"hideDateRanges\":false,\"hideMarketStatus\":false,\"hideSymbolLogo\":false,\"scalePosition\":\"right\",\"scaleMode\":\"Normal\",\"fontFamily\":\"-apple-system, BlinkMacSystemFont, Trebuchet MS, Roboto, Ubuntu, sans-serif\",\"fontSize\":\"10\",\"noTimeScale\":false,\"valuesTracking\":\"1\",\"changeMode\":\"price-and-percent\",\"chartType\":\"area\",\"maLineColor\":\"#2962FF\",\"maLineWidth\":1,\"maLength\":9,\"headerFontSize\":\"medium\",\"lineWidth\":2,\"lineType\":0,\"dateRanges\":[\"1d|1\",\"1m|30\",\"3m|60\",\"12m|1D\",\"60m|1W\",\"all|1M\"],\"utm_source\":\"example.com\",\"utm_medium\":\"widget\",\"utm_campaign\":\"symbol-overview\",\"page-uri\":\"example.com\"}",
+  "https://www.tradingview-widget.com/embed-widget/symbol-overview/?locale=en#{\"symbols\":[[\"COINBASE:USDCUSD|1M\"]],\"chartOnly\":false,\"width\":\"100%\",\"height\":450,\"colorTheme\":\"light\",\"showVolume\":false,\"showMA\":false,\"hideDateRanges\":false,\"hideMarketStatus\":false,\"hideSymbolLogo\":false,\"scalePosition\":\"right\",\"scaleMode\":\"Normal\",\"fontFamily\":\"-apple-system, BlinkMacSystemFont, Trebuchet MS, Roboto, Ubuntu, sans-serif\",\"fontSize\":\"10\",\"noTimeScale\":false,\"valuesTracking\":\"1\",\"changeMode\":\"price-and-percent\",\"chartType\":\"area\",\"maLineColor\":\"#2962FF\",\"maLineWidth\":1,\"maLength\":9,\"headerFontSize\":\"medium\",\"lineWidth\":2,\"lineType\":0,\"dateRanges\":[\"1d|1\",\"1m|30\",\"3m|60\",\"12m|1D\",\"60m|1W\",\"all|1M\"],\"utm_source\":\"example.com\",\"utm_medium\":\"widget\",\"utm_campaign\":\"symbol-overview\",\"page-uri\":\"example.com\"}",
+  "https://www.tradingview-widget.com/embed-widget/symbol-overview/?locale=en#{\"symbols\":[[\"COINBASE:DAIUSD|1M\"]],\"chartOnly\":false,\"width\":\"100%\",\"height\":450,\"colorTheme\":\"light\",\"showVolume\":false,\"showMA\":false,\"hideDateRanges\":false,\"hideMarketStatus\":false,\"hideSymbolLogo\":false,\"scalePosition\":\"right\",\"scaleMode\":\"Normal\",\"fontFamily\":\"-apple-system, BlinkMacSystemFont, Trebuchet MS, Roboto, Ubuntu, sans-serif\",\"fontSize\":\"10\",\"noTimeScale\":false,\"valuesTracking\":\"1\",\"changeMode\":\"price-and-percent\",\"chartType\":\"area\",\"maLineColor\":\"#2962FF\",\"maLineWidth\":1,\"maLength\":9,\"headerFontSize\":\"medium\",\"lineWidth\":2,\"lineType\":0,\"dateRanges\":[\"1d|1\",\"1m|30\",\"3m|60\",\"12m|1D\",\"60m|1W\",\"all|1M\"],\"utm_source\":\"example.com\",\"utm_medium\":\"widget\",\"utm_campaign\":\"symbol-overview\",\"page-uri\":\"example.com\"}",
+  "https://www.tradingview-widget.com/embed-widget/symbol-overview/?locale=en#{\"symbols\":[[\"COINBASE:MATICUSD|1M\"]],\"chartOnly\":false,\"width\":\"100%\",\"height\":450,\"colorTheme\":\"light\",\"showVolume\":false,\"showMA\":false,\"hideDateRanges\":false,\"hideMarketStatus\":false,\"hideSymbolLogo\":false,\"scalePosition\":\"right\",\"scaleMode\":\"Normal\",\"fontFamily\":\"-apple-system, BlinkMacSystemFont, Trebuchet MS, Roboto, Ubuntu, sans-serif\",\"fontSize\":\"10\",\"noTimeScale\":false,\"valuesTracking\":\"1\",\"changeMode\":\"price-and-percent\",\"chartType\":\"area\",\"maLineColor\":\"#2962FF\",\"maLineWidth\":1,\"maLength\":9,\"headerFontSize\":\"medium\",\"lineWidth\":2,\"lineType\":0,\"dateRanges\":[\"1d|1\",\"1m|30\",\"3m|60\",\"12m|1D\",\"60m|1W\",\"all|1M\"],\"utm_source\":\"example.com\",\"utm_medium\":\"widget\",\"utm_campaign\":\"symbol-overview\",\"page-uri\":\"example.com\"}",
+  "https://www.tradingview-widget.com/embed-widget/symbol-overview/?locale=en#{\"symbols\":[[\"COINBASE:SUIUSD|1M\"]],\"chartOnly\":false,\"width\":\"100%\",\"height\":450,\"colorTheme\":\"light\",\"showVolume\":false,\"showMA\":false,\"hideDateRanges\":false,\"hideMarketStatus\":false,\"hideSymbolLogo\":false,\"scalePosition\":\"right\",\"scaleMode\":\"Normal\",\"fontFamily\":\"-apple-system, BlinkMacSystemFont, Trebuchet MS, Roboto, Ubuntu, sans-serif\",\"fontSize\":\"10\",\"noTimeScale\":false,\"valuesTracking\":\"1\",\"changeMode\":\"price-and-percent\",\"chartType\":\"area\",\"maLineColor\":\"#2962FF\",\"maLineWidth\":1,\"maLength\":9,\"headerFontSize\":\"medium\",\"lineWidth\":2,\"lineType\":0,\"dateRanges\":[\"1d|1\",\"1m|30\",\"3m|60\",\"12m|1D\",\"60m|1W\",\"all|1M\"],\"utm_source\":\"example.com\",\"utm_medium\":\"widget\",\"utm_campaign\":\"symbol-overview\",\"page-uri\":\"example.com\"}",
+  "https://www.tradingview-widget.com/embed-widget/symbol-overview/?locale=en#{\"symbols\":[[\"COINBASE:NEARUSD|1M\"]],\"chartOnly\":false,\"width\":\"100%\",\"height\":450,\"colorTheme\":\"light\",\"showVolume\":false,\"showMA\":false,\"hideDateRanges\":false,\"hideMarketStatus\":false,\"hideSymbolLogo\":false,\"scalePosition\":\"right\",\"scaleMode\":\"Normal\",\"fontFamily\":\"-apple-system, BlinkMacSystemFont, Trebuchet MS, Roboto, Ubuntu, sans-serif\",\"fontSize\":\"10\",\"noTimeScale\":false,\"valuesTracking\":\"1\",\"changeMode\":\"price-and-percent\",\"chartType\":\"area\",\"maLineColor\":\"#2962FF\",\"maLineWidth\":1,\"maLength\":9,\"headerFontSize\":\"medium\",\"lineWidth\":2,\"lineType\":0,\"dateRanges\":[\"1d|1\",\"1m|30\",\"3m|60\",\"12m|1D\",\"60m|1W\",\"all|1M\"],\"utm_source\":\"example.com\",\"utm_medium\":\"widget\",\"utm_campaign\":\"symbol-overview\",\"page-uri\":\"example.com\"}",
+  "https://www.tradingview-widget.com/embed-widget/symbol-overview/?locale=en#{\"symbols\":[[\"COINBASE:APTUSD|1M\"]],\"chartOnly\":false,\"width\":\"100%\",\"height\":450,\"colorTheme\":\"light\",\"showVolume\":false,\"showMA\":false,\"hideDateRanges\":false,\"hideMarketStatus\":false,\"hideSymbolLogo\":false,\"scalePosition\":\"right\",\"scaleMode\":\"Normal\",\"fontFamily\":\"-apple-system, BlinkMacSystemFont, Trebuchet MS, Roboto, Ubuntu, sans-serif\",\"fontSize\":\"10\",\"noTimeScale\":false,\"valuesTracking\":\"1\",\"changeMode\":\"price-and-percent\",\"chartType\":\"area\",\"maLineColor\":\"#2962FF\",\"maLineWidth\":1,\"maLength\":9,\"headerFontSize\":\"medium\",\"lineWidth\":2,\"lineType\":0,\"dateRanges\":[\"1d|1\",\"1m|30\",\"3m|60\",\"12m|1D\",\"60m|1W\",\"all|1M\"],\"utm_source\":\"example.com\",\"utm_medium\":\"widget\",\"utm_campaign\":\"symbol-overview\",\"page-uri\":\"example.com\"}",
+  "https://www.tradingview-widget.com/embed-widget/symbol-overview/?locale=en#{\"symbols\":[[\"COINBASE:FILUSD|1M\"]],\"chartOnly\":false,\"width\":\"100%\",\"height\":450,\"colorTheme\":\"light\",\"showVolume\":false,\"showMA\":false,\"hideDateRanges\":false,\"hideMarketStatus\":false,\"hideSymbolLogo\":false,\"scalePosition\":\"right\",\"scaleMode\":\"Normal\",\"fontFamily\":\"-apple-system, BlinkMacSystemFont, Trebuchet MS, Roboto, Ubuntu, sans-serif\",\"fontSize\":\"10\",\"noTimeScale\":false,\"valuesTracking\":\"1\",\"changeMode\":\"price-and-percent\",\"chartType\":\"area\",\"maLineColor\":\"#2962FF\",\"maLineWidth\":1,\"maLength\":9,\"headerFontSize\":\"medium\",\"lineWidth\":2,\"lineType\":0,\"dateRanges\":[\"1d|1\",\"1m|30\",\"3m|60\",\"12m|1D\",\"60m|1W\",\"all|1M\"],\"utm_source\":\"example.com\",\"utm_medium\":\"widget\",\"utm_campaign\":\"symbol-overview\",\"page-uri\":\"example.com\"}",
+  "https://www.tradingview-widget.com/embed-widget/symbol-overview/?locale=en#{\"symbols\":[[\"COINBASE:ICPUSD|1M\"]],\"chartOnly\":false,\"width\":\"100%\",\"height\":450,\"colorTheme\":\"light\",\"showVolume\":false,\"showMA\":false,\"hideDateRanges\":false,\"hideMarketStatus\":false,\"hideSymbolLogo\":false,\"scalePosition\":\"right\",\"scaleMode\":\"Normal\",\"fontFamily\":\"-apple-system, BlinkMacSystemFont, Trebuchet MS, Roboto, Ubuntu, sans-serif\",\"fontSize\":\"10\",\"noTimeScale\":false,\"valuesTracking\":\"1\",\"changeMode\":\"price-and-percent\",\"chartType\":\"area\",\"maLineColor\":\"#2962FF\",\"maLineWidth\":1,\"maLength\":9,\"headerFontSize\":\"medium\",\"lineWidth\":2,\"lineType\":0,\"dateRanges\":[\"1d|1\",\"1m|30\",\"3m|60\",\"12m|1D\",\"60m|1W\",\"all|1M\"],\"utm_source\":\"example.com\",\"utm_medium\":\"widget\",\"utm_campaign\":\"symbol-overview\",\"page-uri\":\"example.com\"}",
+  "https://www.tradingview-widget.com/embed-widget/symbol-overview/?locale=en#{\"symbols\":[[\"COINBASE:TONUSD|1M\"]],\"chartOnly\":false,\"width\":\"100%\",\"height\":450,\"colorTheme\":\"light\",\"showVolume\":false,\"showMA\":false,\"hideDateRanges\":false,\"hideMarketStatus\":false,\"hideSymbolLogo\":false,\"scalePosition\":\"right\",\"scaleMode\":\"Normal\",\"fontFamily\":\"-apple-system, BlinkMacSystemFont, Trebuchet MS, Roboto, Ubuntu, sans-serif\",\"fontSize\":\"10\",\"noTimeScale\":false,\"valuesTracking\":\"1\",\"changeMode\":\"price-and-percent\",\"chartType\":\"area\",\"maLineColor\":\"#2962FF\",\"maLineWidth\":1,\"maLength\":9,\"headerFontSize\":\"medium\",\"lineWidth\":2,\"lineType\":0,\"dateRanges\":[\"1d|1\",\"1m|30\",\"3m|60\",\"12m|1D\",\"60m|1W\",\"all|1M\"],\"utm_source\":\"example.com\",\"utm_medium\":\"widget\",\"utm_campaign\":\"symbol-overview\",\"page-uri\":\"example.com\"}",
+  "https://www.tradingview-widget.com/embed-widget/symbol-overview/?locale=en#{\"symbols\":[[\"COINBASE:DOTUSD|1M\"]],\"chartOnly\":false,\"width\":\"100%\",\"height\":450,\"colorTheme\":\"light\",\"showVolume\":false,\"showMA\":false,\"hideDateRanges\":false,\"hideMarketStatus\":false,\"hideSymbolLogo\":false,\"scalePosition\":\"right\",\"scaleMode\":\"Normal\",\"fontFamily\":\"-apple-system, BlinkMacSystemFont, Trebuchet MS, Roboto, Ubuntu, sans-serif\",\"fontSize\":\"10\",\"noTimeScale\":false,\"valuesTracking\":\"1\",\"changeMode\":\"price-and-percent\",\"chartType\":\"area\",\"maLineColor\":\"#2962FF\",\"maLineWidth\":1,\"maLength\":9,\"headerFontSize\":\"medium\",\"lineWidth\":2,\"lineType\":0,\"dateRanges\":[\"1d|1\",\"1m|30\",\"3m|60\",\"12m|1D\",\"60m|1W\",\"all|1M\"],\"utm_source\":\"example.com\",\"utm_medium\":\"widget\",\"utm_campaign\":\"symbol-overview\",\"page-uri\":\"example.com\"}",
+  "https://www.tradingview-widget.com/embed-widget/symbol-overview/?locale=en#{\"symbols\":[[\"COINBASE:ADAUSD|1M\"]],\"chartOnly\":false,\"width\":\"100%\",\"height\":450,\"colorTheme\":\"light\",\"showVolume\":false,\"showMA\":false,\"hideDateRanges\":false,\"hideMarketStatus\":false,\"hideSymbolLogo\":false,\"scalePosition\":\"right\",\"scaleMode\":\"Normal\",\"fontFamily\":\"-apple-system, BlinkMacSystemFont, Trebuchet MS, Roboto, Ubuntu, sans-serif\",\"fontSize\":\"10\",\"noTimeScale\":false,\"valuesTracking\":\"1\",\"changeMode\":\"price-and-percent\",\"chartType\":\"area\",\"maLineColor\":\"#2962FF\",\"maLineWidth\":1,\"maLength\":9,\"headerFontSize\":\"medium\",\"lineWidth\":2,\"lineType\":0,\"dateRanges\":[\"1d|1\",\"1m|30\",\"3m|60\",\"12m|1D\",\"60m|1W\",\"all|1M\"],\"utm_source\":\"example.com\",\"utm_medium\":\"widget\",\"utm_campaign\":\"symbol-overview\",\"page-uri\":\"example.com\"}",
+  "https://www.tradingview-widget.com/embed-widget/symbol-overview/?locale=en#{\"symbols\":[[\"COINBASE:SOLUSD|1M\"]],\"chartOnly\":false,\"width\":\"100%\",\"height\":450,\"colorTheme\":\"light\",\"showVolume\":false,\"showMA\":false,\"hideDateRanges\":false,\"hideMarketStatus\":false,\"hideSymbolLogo\":false,\"scalePosition\":\"right\",\"scaleMode\":\"Normal\",\"fontFamily\":\"-apple-system, BlinkMacSystemFont, Trebuchet MS, Roboto, Ubuntu, sans-serif\",\"fontSize\":\"10\",\"noTimeScale\":false,\"valuesTracking\":\"1\",\"changeMode\":\"price-and-percent\",\"chartType\":\"area\",\"maLineColor\":\"#2962FF\",\"maLineWidth\":1,\"maLength\":9,\"headerFontSize\":\"medium\",\"lineWidth\":2,\"lineType\":0,\"dateRanges\":[\"1d|1\",\"1m|30\",\"3m|60\",\"12m|1D\",\"60m|1W\",\"all|1M\"],\"utm_source\":\"example.com\",\"utm_medium\":\"widget\",\"utm_campaign\":\"symbol-overview\",\"page-uri\":\"example.com\"}",
+  "https://www.tradingview-widget.com/embed-widget/symbol-overview/?locale=en#{\"symbols\":[[\"COINBASE:JUPUSD|1M\"]],\"chartOnly\":false,\"width\":\"100%\",\"height\":450,\"colorTheme\":\"light\",\"showVolume\":false,\"showMA\":false,\"hideDateRanges\":false,\"hideMarketStatus\":false,\"hideSymbolLogo\":false,\"scalePosition\":\"right\",\"scaleMode\":\"Normal\",\"fontFamily\":\"-apple-system, BlinkMacSystemFont, Trebuchet MS, Roboto, Ubuntu, sans-serif\",\"fontSize\":\"10\",\"noTimeScale\":false,\"valuesTracking\":\"1\",\"changeMode\":\"price-and-percent\",\"chartType\":\"area\",\"maLineColor\":\"#2962FF\",\"maLineWidth\":1,\"maLength\":9,\"headerFontSize\":\"medium\",\"lineWidth\":2,\"lineType\":0,\"dateRanges\":[\"1d|1\",\"1m|30\",\"3m|60\",\"12m|1D\",\"60m|1W\",\"all|1M\"],\"utm_source\":\"example.com\",\"utm_medium\":\"widget\",\"utm_campaign\":\"symbol-overview\",\"page-uri\":\"example.com\"}",
+  "https://www.tradingview-widget.com/embed-widget/symbol-overview/?locale=en#{\"symbols\":[[\"COINBASE:PYUSDUSD|1M\"]],\"chartOnly\":false,\"width\":\"100%\",\"height\":450,\"colorTheme\":\"light\",\"showVolume\":false,\"showMA\":false,\"hideDateRanges\":false,\"hideMarketStatus\":false,\"hideSymbolLogo\":false,\"scalePosition\":\"right\",\"scaleMode\":\"Normal\",\"fontFamily\":\"-apple-system, BlinkMacSystemFont, Trebuchet MS, Roboto, Ubuntu, sans-serif\",\"fontSize\":\"10\",\"noTimeScale\":false,\"valuesTracking\":\"1\",\"changeMode\":\"price-and-percent\",\"chartType\":\"area\",\"maLineColor\":\"#2962FF\",\"maLineWidth\":1,\"maLength\":9,\"headerFontSize\":\"medium\",\"lineWidth\":2,\"lineType\":0,\"dateRanges\":[\"1d|1\",\"1m|30\",\"3m|60\",\"12m|1D\",\"60m|1W\",\"all|1M\"],\"utm_source\":\"example.com\",\"utm_medium\":\"widget\",\"utm_campaign\":\"symbol-overview\",\"page-uri\":\"example.com\"}",
+  "https://www.tradingview-widget.com/embed-widget/symbol-overview/?locale=en#{\"symbols\":[[\"COINBASE:TRXUSD|1M\"]],\"chartOnly\":false,\"width\":\"100%\",\"height\":450,\"colorTheme\":\"light\",\"showVolume\":false,\"showMA\":false,\"hideDateRanges\":false,\"hideMarketStatus\":false,\"hideSymbolLogo\":false,\"scalePosition\":\"right\",\"scaleMode\":\"Normal\",\"fontFamily\":\"-apple-system, BlinkMacSystemFont, Trebuchet MS, Roboto, Ubuntu, sans-serif\",\"fontSize\":\"10\",\"noTimeScale\":false,\"valuesTracking\":\"1\",\"changeMode\":\"price-and-percent\",\"chartType\":\"area\",\"maLineColor\":\"#2962FF\",\"maLineWidth\":1,\"maLength\":9,\"headerFontSize\":\"medium\",\"lineWidth\":2,\"lineType\":0,\"dateRanges\":[\"1d|1\",\"1m|30\",\"3m|60\",\"12m|1D\",\"60m|1W\",\"all|1M\"],\"utm_source\":\"example.com\",\"utm_medium\":\"widget\",\"utm_campaign\":\"symbol-overview\",\"page-uri\":\"example.com\"}",
+  "https://www.tradingview-widget.com/embed-widget/symbol-overview/?locale=en#{\"symbols\":[[\"COINBASE:PAXGUSD|1M\"]],\"chartOnly\":false,\"width\":\"100%\",\"height\":450,\"colorTheme\":\"light\",\"showVolume\":false,\"showMA\":false,\"hideDateRanges\":false,\"hideMarketStatus\":false,\"hideSymbolLogo\":false,\"scalePosition\":\"right\",\"scaleMode\":\"Normal\",\"fontFamily\":\"-apple-system, BlinkMacSystemFont, Trebuchet MS, Roboto, Ubuntu, sans-serif\",\"fontSize\":\"10\",\"noTimeScale\":false,\"valuesTracking\":\"1\",\"changeMode\":\"price-and-percent\",\"chartType\":\"area\",\"maLineColor\":\"#2962FF\",\"maLineWidth\":1,\"maLength\":9,\"headerFontSize\":\"medium\",\"lineWidth\":2,\"lineType\":0,\"dateRanges\":[\"1d|1\",\"1m|30\",\"3m|60\",\"12m|1D\",\"60m|1W\",\"all|1M\"],\"utm_source\":\"example.com\",\"utm_medium\":\"widget\",\"utm_campaign\":\"symbol-overview\",\"page-uri\":\"example.com\"}",
+  "https://www.tradingview-widget.com/embed-widget/symbol-overview/?locale=en#{\"symbols\":[[\"COINBASE:XAUTUSD|1M\"]],\"chartOnly\":false,\"width\":\"100%\",\"height\":450,\"colorTheme\":\"light\",\"showVolume\":false,\"showMA\":false,\"hideDateRanges\":false,\"hideMarketStatus\":false,\"hideSymbolLogo\":false,\"scalePosition\":\"right\",\"scaleMode\":\"Normal\",\"fontFamily\":\"-apple-system, BlinkMacSystemFont, Trebuchet MS, Roboto, Ubuntu, sans-serif\",\"fontSize\":\"10\",\"noTimeScale\":false,\"valuesTracking\":\"1\",\"changeMode\":\"price-and-percent\",\"chartType\":\"area\",\"maLineColor\":\"#2962FF\",\"maLineWidth\":1,\"maLength\":9,\"headerFontSize\":\"medium\",\"lineWidth\":2,\"lineType\":0,\"dateRanges\":[\"1d|1\",\"1m|30\",\"3m|60\",\"12m|1D\",\"60m|1W\",\"all|1M\"],\"utm_source\":\"example.com\",\"utm_medium\":\"widget\",\"utm_campaign\":\"symbol-overview\",\"page-uri\":\"example.com\"}",
+  "https://www.tradingview-widget.com/embed-widget/symbol-overview/?locale=en#{\"symbols\":[[\"COINBASE:LDOUSD|1M\"]],\"chartOnly\":false,\"width\":\"100%\",\"height\":450,\"colorTheme\":\"light\",\"showVolume\":false,\"showMA\":false,\"hideDateRanges\":false,\"hideMarketStatus\":false,\"hideSymbolLogo\":false,\"scalePosition\":\"right\",\"scaleMode\":\"Normal\",\"fontFamily\":\"-apple-system, BlinkMacSystemFont, Trebuchet MS, Roboto, Ubuntu, sans-serif\",\"fontSize\":\"10\",\"noTimeScale\":false,\"valuesTracking\":\"1\",\"changeMode\":\"price-and-percent\",\"chartType\":\"area\",\"maLineColor\":\"#2962FF\",\"maLineWidth\":1,\"maLength\":9,\"headerFontSize\":\"medium\",\"lineWidth\":2,\"lineType\":0,\"dateRanges\":[\"1d|1\",\"1m|30\",\"3m|60\",\"12m|1D\",\"60m|1W\",\"all|1M\"],\"utm_source\":\"example.com\",\"utm_medium\":\"widget\",\"utm_campaign\":\"symbol-overview\",\"page-uri\":\"example.com\"}",
+  "https://www.tradingview-widget.com/embed-widget/symbol-overview/?locale=en#{\"symbols\":[[\"COINBASE:ENAUSD|1M\"]],\"chartOnly\":false,\"width\":\"100%\",\"height\":450,\"colorTheme\":\"light\",\"showVolume\":false,\"showMA\":false,\"hideDateRanges\":false,\"hideMarketStatus\":false,\"hideSymbolLogo\":false,\"scalePosition\":\"right\",\"scaleMode\":\"Normal\",\"fontFamily\":\"-apple-system, BlinkMacSystemFont, Trebuchet MS, Roboto, Ubuntu, sans-serif\",\"fontSize\":\"10\",\"noTimeScale\":false,\"valuesTracking\":\"1\",\"changeMode\":\"price-and-percent\",\"chartType\":\"area\",\"maLineColor\":\"#2962FF\",\"maLineWidth\":1,\"maLength\":9,\"headerFontSize\":\"medium\",\"lineWidth\":2,\"lineType\":0,\"dateRanges\":[\"1d|1\",\"1m|30\",\"3m|60\",\"12m|1D\",\"60m|1W\",\"all|1M\"],\"utm_source\":\"example.com\",\"utm_medium\":\"widget\",\"utm_campaign\":\"symbol-overview\",\"page-uri\":\"example.com\"}",
+  "https://www.tradingview-widget.com/embed-widget/symbol-overview/?locale=en#{\"symbols\":[[\"COINBASE:TAOUSD|1M\"]],\"chartOnly\":false,\"width\":\"100%\",\"height\":450,\"colorTheme\":\"light\",\"showVolume\":false,\"showMA\":false,\"hideDateRanges\":false,\"hideMarketStatus\":false,\"hideSymbolLogo\":false,\"scalePosition\":\"right\",\"scaleMode\":\"Normal\",\"fontFamily\":\"-apple-system, BlinkMacSystemFont, Trebuchet MS, Roboto, Ubuntu, sans-serif\",\"fontSize\":\"10\",\"noTimeScale\":false,\"valuesTracking\":\"1\",\"changeMode\":\"price-and-percent\",\"chartType\":\"area\",\"maLineColor\":\"#2962FF\",\"maLineWidth\":1,\"maLength\":9,\"headerFontSize\":\"medium\",\"lineWidth\":2,\"lineType\":0,\"dateRanges\":[\"1d|1\",\"1m|30\",\"3m|60\",\"12m|1D\",\"60m|1W\",\"all|1M\"],\"utm_source\":\"example.com\",\"utm_medium\":\"widget\",\"utm_campaign\":\"symbol-overview\",\"page-uri\":\"example.com\"}",
+  "https://www.tradingview-widget.com/embed-widget/symbol-overview/?locale=en#{\"symbols\":[[\"COINBASE:RSETHUSD|1M\"]],\"chartOnly\":false,\"width\":\"100%\",\"height\":450,\"colorTheme\":\"light\",\"showVolume\":false,\"showMA\":false,\"hideDateRanges\":false,\"hideMarketStatus\":false,\"hideSymbolLogo\":false,\"scalePosition\":\"right\",\"scaleMode\":\"Normal\",\"fontFamily\":\"-apple-system, BlinkMacSystemFont, Trebuchet MS, Roboto, Ubuntu, sans-serif\",\"fontSize\":\"10\",\"noTimeScale\":false,\"valuesTracking\":\"1\",\"changeMode\":\"price-and-percent\",\"chartType\":\"area\",\"maLineColor\":\"#2962FF\",\"maLineWidth\":1,\"maLength\":9,\"headerFontSize\":\"medium\",\"lineWidth\":2,\"lineType\":0,\"dateRanges\":[\"1d|1\",\"1m|30\",\"3m|60\",\"12m|1D\",\"60m|1W\",\"all|1M\"],\"utm_source\":\"example.com\",\"utm_medium\":\"widget\",\"utm_campaign\":\"symbol-overview\",\"page-uri\":\"example.com\"}",
+  "https://www.tradingview-widget.com/embed-widget/symbol-overview/?locale=en#{\"symbols\":[[\"COINBASE:ZECUSD|1M\"]],\"chartOnly\":false,\"width\":\"100%\",\"height\":450,\"colorTheme\":\"light\",\"showVolume\":false,\"showMA\":false,\"hideDateRanges\":false,\"hideMarketStatus\":false,\"hideSymbolLogo\":false,\"scalePosition\":\"right\",\"scaleMode\":\"Normal\",\"fontFamily\":\"-apple-system, BlinkMacSystemFont, Trebuchet MS, Roboto, Ubuntu, sans-serif\",\"fontSize\":\"10\",\"noTimeScale\":false,\"valuesTracking\":\"1\",\"changeMode\":\"price-and-percent\",\"chartType\":\"area\",\"maLineColor\":\"#2962FF\",\"maLineWidth\":1,\"maLength\":9,\"headerFontSize\":\"medium\",\"lineWidth\":2,\"lineType\":0,\"dateRanges\":[\"1d|1\",\"1m|30\",\"3m|60\",\"12m|1D\",\"60m|1W\",\"all|1M\"],\"utm_source\":\"example.com\",\"utm_medium\":\"widget\",\"utm_campaign\":\"symbol-overview\",\"page-uri\":\"example.com\"}",
+  "https://www.tradingview-widget.com/embed-widget/symbol-overview/?locale=en#{\"symbols\":[[\"COINBASE:WLDUSD|1M\"]],\"chartOnly\":false,\"width\":\"100%\",\"height\":450,\"colorTheme\":\"light\",\"showVolume\":false,\"showMA\":false,\"hideDateRanges\":false,\"hideMarketStatus\":false,\"hideSymbolLogo\":false,\"scalePosition\":\"right\",\"scaleMode\":\"Normal\",\"fontFamily\":\"-apple-system, BlinkMacSystemFont, Trebuchet MS, Roboto, Ubuntu, sans-serif\",\"fontSize\":\"10\",\"noTimeScale\":false,\"valuesTracking\":\"1\",\"changeMode\":\"price-and-percent\",\"chartType\":\"area\",\"maLineColor\":\"#2962FF\",\"maLineWidth\":1,\"maLength\":9,\"headerFontSize\":\"medium\",\"lineWidth\":2,\"lineType\":0,\"dateRanges\":[\"1d|1\",\"1m|30\",\"3m|60\",\"12m|1D\",\"60m|1W\",\"all|1M\"],\"utm_source\":\"example.com\",\"utm_medium\":\"widget\",\"utm_campaign\":\"symbol-overview\",\"page-uri\":\"example.com\"}",
+  "https://www.tradingview-widget.com/embed-widget/symbol-overview/?locale=en#{\"symbols\":[[\"COINBASE:FLOKIUSD|1M\"]],\"chartOnly\":false,\"width\":\"100%\",\"height\":450,\"colorTheme\":\"light\",\"showVolume\":false,\"showMA\":false,\"hideDateRanges\":false,\"hideMarketStatus\":false,\"hideSymbolLogo\":false,\"scalePosition\":\"right\",\"scaleMode\":\"Normal\",\"fontFamily\":\"-apple-system, BlinkMacSystemFont, Trebuchet MS, Roboto, Ubuntu, sans-serif\",\"fontSize\":\"10\",\"noTimeScale\":false,\"valuesTracking\":\"1\",\"changeMode\":\"price-and-percent\",\"chartType\":\"area\",\"maLineColor\":\"#2962FF\",\"maLineWidth\":1,\"maLength\":9,\"headerFontSize\":\"medium\",\"lineWidth\":2,\"lineType\":0,\"dateRanges\":[\"1d|1\",\"1m|30\",\"3m|60\",\"12m|1D\",\"60m|1W\",\"all|1M\"],\"utm_source\":\"example.com\",\"utm_medium\":\"widget\",\"utm_campaign\":\"symbol-overview\",\"page-uri\":\"example.com\"}",
+  "https://www.tradingview-widget.com/embed-widget/symbol-overview/?locale=en#{\"symbols\":[[\"COINBASE:BONKUSD|1M\"]],\"chartOnly\":false,\"width\":\"100%\",\"height\":450,\"colorTheme\":\"light\",\"showVolume\":false,\"showMA\":false,\"hideDateRanges\":false,\"hideMarketStatus\":false,\"hideSymbolLogo\":false,\"scalePosition\":\"right\",\"scaleMode\":\"Normal\",\"fontFamily\":\"-apple-system, BlinkMacSystemFont, Trebuchet MS, Roboto, Ubuntu, sans-serif\",\"fontSize\":\"10\",\"noTimeScale\":false,\"valuesTracking\":\"1\",\"changeMode\":\"price-and-percent\",\"chartType\":\"area\",\"maLineColor\":\"#2962FF\",\"maLineWidth\":1,\"maLength\":9,\"headerFontSize\":\"medium\",\"lineWidth\":2,\"lineType\":0,\"dateRanges\":[\"1d|1\",\"1m|30\",\"3m|60\",\"12m|1D\",\"60m|1W\",\"all|1M\"],\"utm_source\":\"example.com\",\"utm_medium\":\"widget\",\"utm_campaign\":\"symbol-overview\",\"page-uri\":\"example.com\"}",
+  "https://www.tradingview-widget.com/embed-widget/symbol-overview/?locale=en#{\"symbols\":[[\"COINBASE:WIFUSD|1M\"]],\"chartOnly\":false,\"width\":\"100%\",\"height\":450,\"colorTheme\":\"light\",\"showVolume\":false,\"showMA\":false,\"hideDateRanges\":false,\"hideMarketStatus\":false,\"hideSymbolLogo\":false,\"scalePosition\":\"right\",\"scaleMode\":\"Normal\",\"fontFamily\":\"-apple-system, BlinkMacSystemFont, Trebuchet MS, Roboto, Ubuntu, sans-serif\",\"fontSize\":\"10\",\"noTimeScale\":false,\"valuesTracking\":\"1\",\"changeMode\":\"price-and-percent\",\"chartType\":\"area\",\"maLineColor\":\"#2962FF\",\"maLineWidth\":1,\"maLength\":9,\"headerFontSize\":\"medium\",\"lineWidth\":2,\"lineType\":0,\"dateRanges\":[\"1d|1\",\"1m|30\",\"3m|60\",\"12m|1D\",\"60m|1W\",\"all|1M\"],\"utm_source\":\"example.com\",\"utm_medium\":\"widget\",\"utm_campaign\":\"symbol-overview\",\"page-uri\":\"example.com\"}",
+  "https://www.tradingview-widget.com/embed-widget/symbol-overview/?locale=en#{\"symbols\":[[\"COINBASE:CAKEUSD|1M\"]],\"chartOnly\":false,\"width\":\"100%\",\"height\":450,\"colorTheme\":\"light\",\"showVolume\":false,\"showMA\":false,\"hideDateRanges\":false,\"hideMarketStatus\":false,\"hideSymbolLogo\":false,\"scalePosition\":\"right\",\"scaleMode\":\"Normal\",\"fontFamily\":\"-apple-system, BlinkMacSystemFont, Trebuchet MS, Roboto, Ubuntu, sans-serif\",\"fontSize\":\"10\",\"noTimeScale\":false,\"valuesTracking\":\"1\",\"changeMode\":\"price-and-percent\",\"chartType\":\"area\",\"maLineColor\":\"#2962FF\",\"maLineWidth\":1,\"maLength\":9,\"headerFontSize\":\"medium\",\"lineWidth\":2,\"lineType\":0,\"dateRanges\":[\"1d|1\",\"1m|30\",\"3m|60\",\"12m|1D\",\"60m|1W\",\"all|1M\"],\"utm_source\":\"example.com\",\"utm_medium\":\"widget\",\"utm_campaign\":\"symbol-overview\",\"page-uri\":\"example.com\"}",
+  "https://www.tradingview-widget.com/embed-widget/symbol-overview/?locale=en#{\"symbols\":[[\"COINBASE:ATOMUSD|1M\"]],\"chartOnly\":false,\"width\":\"100%\",\"height\":450,\"colorTheme\":\"light\",\"showVolume\":false,\"showMA\":false,\"hideDateRanges\":false,\"hideMarketStatus\":false,\"hideSymbolLogo\":false,\"scalePosition\":\"right\",\"scaleMode\":\"Normal\",\"fontFamily\":\"-apple-system, BlinkMacSystemFont, Trebuchet MS, Roboto, Ubuntu, sans-serif\",\"fontSize\":\"10\",\"noTimeScale\":false,\"valuesTracking\":\"1\",\"changeMode\":\"price-and-percent\",\"chartType\":\"area\",\"maLineColor\":\"#2962FF\",\"maLineWidth\":1,\"maLength\":9,\"headerFontSize\":\"medium\",\"lineWidth\":2,\"lineType\":0,\"dateRanges\":[\"1d|1\",\"1m|30\",\"3m|60\",\"12m|1D\",\"60m|1W\",\"all|1M\"],\"utm_source\":\"example.com\",\"utm_medium\":\"widget\",\"utm_campaign\":\"symbol-overview\",\"page-uri\":\"example.com\"}",
+  "https://www.tradingview-widget.com/embed-widget/symbol-overview/?locale=en#{\"symbols\":[[\"COINBASE:GRTUSD|1M\"]],\"chartOnly\":false,\"width\":\"100%\",\"height\":450,\"colorTheme\":\"light\",\"showVolume\":false,\"showMA\":false,\"hideDateRanges\":false,\"hideMarketStatus\":false,\"hideSymbolLogo\":false,\"scalePosition\":\"right\",\"scaleMode\":\"Normal\",\"fontFamily\":\"-apple-system, BlinkMacSystemFont, Trebuchet MS, Roboto, Ubuntu, sans-serif\",\"fontSize\":\"10\",\"noTimeScale\":false,\"valuesTracking\":\"1\",\"changeMode\":\"price-and-percent\",\"chartType\":\"area\",\"maLineColor\":\"#2962FF\",\"maLineWidth\":1,\"maLength\":9,\"headerFontSize\":\"medium\",\"lineWidth\":2,\"lineType\":0,\"dateRanges\":[\"1d|1\",\"1m|30\",\"3m|60\",\"12m|1D\",\"60m|1W\",\"all|1M\"],\"utm_source\":\"example.com\",\"utm_medium\":\"widget\",\"utm_campaign\":\"symbol-overview\",\"page-uri\":\"example.com\"}",
+  "https://www.tradingview-widget.com/embed-widget/symbol-overview/?locale=en#{\"symbols\":[[\"COINBASE:FTNUSD|1M\"]],\"chartOnly\":false,\"width\":\"100%\",\"height\":450,\"colorTheme\":\"light\",\"showVolume\":false,\"showMA\":false,\"hideDateRanges\":false,\"hideMarketStatus\":false,\"hideSymbolLogo\":false,\"scalePosition\":\"right\",\"scaleMode\":\"Normal\",\"fontFamily\":\"-apple-system, BlinkMacSystemFont, Trebuchet MS, Roboto, Ubuntu, sans-serif\",\"fontSize\":\"10\",\"noTimeScale\":false,\"valuesTracking\":\"1\",\"changeMode\":\"price-and-percent\",\"chartType\":\"area\",\"maLineColor\":\"#2962FF\",\"maLineWidth\":1,\"maLength\":9,\"headerFontSize\":\"medium\",\"lineWidth\":2,\"lineType\":0,\"dateRanges\":[\"1d|1\",\"1m|30\",\"3m|60\",\"12m|1D\",\"60m|1W\",\"all|1M\"],\"utm_source\":\"example.com\",\"utm_medium\":\"widget\",\"utm_campaign\":\"symbol-overview\",\"page-uri\":\"example.com\"}",
+  "https://www.tradingview-widget.com/embed-widget/symbol-overview/?locale=en#{\"symbols\":[[\"COINBASE:AAVEUSD|1M\"]],\"chartOnly\":false,\"width\":\"100%\",\"height\":450,\"colorTheme\":\"light\",\"showVolume\":false,\"showMA\":false,\"hideDateRanges\":false,\"hideMarketStatus\":false,\"hideSymbolLogo\":false,\"scalePosition\":\"right\",\"scaleMode\":\"Normal\",\"fontFamily\":\"-apple-system, BlinkMacSystemFont, Trebuchet MS, Roboto, Ubuntu, sans-serif\",\"fontSize\":\"10\",\"noTimeScale\":false,\"valuesTracking\":\"1\",\"changeMode\":\"price-and-percent\",\"chartType\":\"area\",\"maLineColor\":\"#2962FF\",\"maLineWidth\":1,\"maLength\":9,\"headerFontSize\":\"medium\",\"lineWidth\":2,\"lineType\":0,\"dateRanges\":[\"1d|1\",\"1m|30\",\"3m|60\",\"12m|1D\",\"60m|1W\",\"all|1M\"],\"utm_source\":\"example.com\",\"utm_medium\":\"widget\",\"utm_campaign\":\"symbol-overview\",\"page-uri\":\"example.com\"}",
+  "https://www.tradingview-widget.com/embed-widget/symbol-overview/?locale=en#{\"symbols\":[[\"COINBASE:ETCUSD|1M\"]],\"chartOnly\":false,\"width\":\"100%\",\"height\":450,\"colorTheme\":\"light\",\"showVolume\":false,\"showMA\":false,\"hideDateRanges\":false,\"hideMarketStatus\":false,\"hideSymbolLogo\":false,\"scalePosition\":\"right\",\"scaleMode\":\"Normal\",\"fontFamily\":\"-apple-system, BlinkMacSystemFont, Trebuchet MS, Roboto, Ubuntu, sans-serif\",\"fontSize\":\"10\",\"noTimeScale\":false,\"valuesTracking\":\"1\",\"changeMode\":\"price-and-percent\",\"chartType\":\"area\",\"maLineColor\":\"#2962FF\",\"maLineWidth\":1,\"maLength\":9,\"headerFontSize\":\"medium\",\"lineWidth\":2,\"lineType\":0,\"dateRanges\":[\"1d|1\",\"1m|30\",\"3m|60\",\"12m|1D\",\"60m|1W\",\"all|1M\"],\"utm_source\":\"example.com\",\"utm_medium\":\"widget\",\"utm_campaign\":\"symbol-overview\",\"page-uri\":\"example.com\"}"
+]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{
+  // IT & Software Giants
+  infosys: "https://www.tradingview.com/chart/?symbol=NSE%3AINFY",
+  tata_consultancy_services: "https://www.tradingview.com/chart/?symbol=NSE%3ATCS",
+  wipro: "https://www.tradingview.com/chart/?symbol=NSE%3AWIPRO",
+  tech_mahindra: "https://www.tradingview.com/chart/?symbol=NSE%3ATECHM",
+  mindtree: "https://www.tradingview.com/chart/?symbol=NSE%3AMINDTREE",
+  persistent_systems: "https://www.tradingview.com/chart/?symbol=NSE%3APERSISTENT",
+  larsen_toubro_infotech: "https://www.tradingview.com/chart/?symbol=NSE%3ALTI",
+  hexaware_technologies: "https://www.tradingview.com/chart/?symbol=NSE%3AHEXAREND",
+  birlasoft: "https://www.tradingview.com/chart/?symbol=NSE%3ABSOFT",
+  quick_heal_technologies: "https://www.tradingview.com/chart/?symbol=NSE%3AQUICKHEAL",
+  kpit_technologies: "https://www.tradingview.com/chart/?symbol=NSE%3AKPITTECH",
+  niit_technologies: "https://www.tradingview.com/chart/?symbol=NSE%3ANIITTECH",
+  ramco_systems: "https://www.tradingview.com/chart/?symbol=NSE%3ARAMCOSYS",
+  oracle_financial_services_software: "https://www.tradingview.com/chart/?symbol=NSE%3AOFSS",
+  intellect_design_arena: "https://www.tradingview.com/chart/?symbol=NSE%3AINTELLECT",
+  firstsource_solutions: "https://www.tradingview.com/chart/?symbol=NSE%3AFSL",
+  3i_infotech: "https://www.tradingview.com/chart/?symbol=NSE%3A3IINFOTECH",
+  css_corp: "https://www.tradingview.com/chart/?symbol=NSE%3ACSSCORP",
+  cybertech_systems: "https://www.tradingview.com/chart/?symbol=NSE%3ACYBERTECH",
+  infibeam_avenues: "https://www.tradingview.com/chart/?symbol=NSE%3AINFIBEAM",
+  a_arti_industries: "https://www.tradingview.com/chart/?symbol=NSE%3AARTIIND",
+  infotech_enterprises: "https://www.tradingview.com/chart/?symbol=NSE%3AINFOTECH",
+  cigniti_technologies: "https://www.tradingview.com/chart/?symbol=NSE%3ACIGNITITEC",
+  sasken_technologies: "https://www.tradingview.com/chart/?symbol=NSE%3ASASKEN",
+  8k_miles_software_services: "https://www.tradingview.com/chart/?symbol=NSE%3AEIGHTKMILES",
+  subex_limited: "https://www.tradingview.com/chart/?symbol=NSE%3ASUBEX",
+  infomedia_18: "https://www.tradingview.com/chart/?symbol=NSE%3AIFINSEC",
+
+  // Emerging / Mid Caps / Niche
+  blue_star: "https://www.tradingview.com/chart/?symbol=NSE%3ABLUESTARCO",
+  cyber_media_research: "https://www.tradingview.com/chart/?symbol=NSE%3ACYBERMEDIA",
+  coforge_ltd: "https://www.tradingview.com/chart/?symbol=NSE%3ACOFORGE",
+  ntt_data_india: "https://www.tradingview.com/chart/?symbol=NSE%3ANTTDATA",
+  allsec_technologies: "https://www.tradingview.com/chart/?symbol=NSE%3AALLSEC",
+  sonata_software: "https://www.tradingview.com/chart/?symbol=NSE%3ASONATA",
+  hexaware: "https://www.tradingview.com/chart/?symbol=NSE%3AHEXAREND",
+  hcl_technologies: "https://www.tradingview.com/chart/?symbol=NSE%3AHCLTECH",
+  birla_corp: "https://www.tradingview.com/chart/?symbol=NSE%3ABIRLACORPN",
+  hdfc_life: "https://www.tradingview.com/chart/?symbol=NSE%3AHDFCLIFE",
+  ipca_labs: "https://www.tradingview.com/chart/?symbol=NSE%3AIPCALAB",
+
+  // Telecom + AI infrastructure
+  reliance_industries: "https://www.tradingview.com/chart/?symbol=NSE%3ARELIANCE",
+  bharti_airtel: "https://www.tradingview.com/chart/?symbol=NSE%3AIDEA",
+  idea_cellular: "https://www.tradingview.com/chart/?symbol=NSE%3AIDEA",
+  tata_communications: "https://www.tradingview.com/chart/?symbol=NSE%3ATATACOMM",
+  
+  // Digital Payments & FinTech with AI adoption
+  paytm: "https://www.tradingview.com/chart/?symbol=NSE%3APAYTM",
+  bajaj_finserv: "https://www.tradingview.com/chart/?symbol=NSE%3ABAFINSERV",
+  info_edge: "https://www.tradingview.com/chart/?symbol=NSE%3AINFOTECH",
+  
+  // Cloud & Data Centers / IT Infrastructure
+  equinix_india (not listed on NSE but relevant),
+  ctrlS_datacenters (private but big in India),
+  
+  // Others
+  tcs_electric: "https://www.tradingview.com/chart/?symbol=NSE%3ATCSEL",
+  astral_ltd: "https://www.tradingview.com/chart/?symbol=NSE%3AASTRAL",
+  intas_pharma: "https://www.tradingview.com/chart/?symbol=NSE%3AINTAS",
+  eclerx_services: "https://www.tradingview.com/chart/?symbol=NSE%3AECLERX",
+  mindspace_business_park: "https://www.tradingview.com/chart/?symbol=NSE%3AMINDSPACE",
+  makemytrip: "https://www.tradingview.com/chart/?symbol=NSE%3AMAKE",
+  housing_development_finance_corp: "https://www.tradingview.com/chart/?symbol=NSE%3AHDFC",
+  indiamart_intermesh: "https://www.tradingview.com/chart/?symbol=NSE%3AINDIAMART",
+}
+
+
+
+
+
+
+
+
+
+{
+  // IT & Software Heavyweights
+  infosys: "https://www.tradingview.com/chart/?symbol=NSE%3AINFY",
+  tata_consultancy_services: "https://www.tradingview.com/chart/?symbol=NSE%3ATCS",
+  wipro: "https://www.tradingview.com/chart/?symbol=NSE%3AWIPRO",
+  tech_mahindra: "https://www.tradingview.com/chart/?symbol=NSE%3ATECHM",
+  mindtree: "https://www.tradingview.com/chart/?symbol=NSE%3AMINDTREE",
+  persistent_systems: "https://www.tradingview.com/chart/?symbol=NSE%3APERSISTENT",
+  larsen_toubro_infotech: "https://www.tradingview.com/chart/?symbol=NSE%3ALTI",
+  hexaware_technologies: "https://www.tradingview.com/chart/?symbol=NSE%3AHEXAREND",
+  birlasoft: "https://www.tradingview.com/chart/?symbol=NSE%3ABSOFT",
+  quick_heal_technologies: "https://www.tradingview.com/chart/?symbol=NSE%3AQUICKHEAL",
+  kpit_technologies: "https://www.tradingview.com/chart/?symbol=NSE%3AKPITTECH",
+  niit_technologies: "https://www.tradingview.com/chart/?symbol=NSE%3ANIITTECH",
+  ramco_systems: "https://www.tradingview.com/chart/?symbol=NSE%3ARAMCOSYS",
+  oracle_financial_services_software: "https://www.tradingview.com/chart/?symbol=NSE%3AOFSS",
+  intellect_design_arena: "https://www.tradingview.com/chart/?symbol=NSE%3AINTELLECT",
+  firstsource_solutions: "https://www.tradingview.com/chart/?symbol=NSE%3AFSL",
+  3i_infotech: "https://www.tradingview.com/chart/?symbol=NSE%3A3IINFOTECH",
+  css_corp: "https://www.tradingview.com/chart/?symbol=NSE%3ACSSCORP",
+  cybertech_systems: "https://www.tradingview.com/chart/?symbol=NSE%3ACYBERTECH",
+  infibeam_avenues: "https://www.tradingview.com/chart/?symbol=NSE%3AINFIBEAM",
+  a_arti_industries: "https://www.tradingview.com/chart/?symbol=NSE%3AARTIIND",
+  infotech_enterprises: "https://www.tradingview.com/chart/?symbol=NSE%3AINFOTECH",
+  cigniti_technologies: "https://www.tradingview.com/chart/?symbol=NSE%3ACIGNITITEC",
+  sasken_technologies: "https://www.tradingview.com/chart/?symbol=NSE%3ASASKEN",
+  8k_miles_software_services: "https://www.tradingview.com/chart/?symbol=NSE%3AEIGHTKMILES",
+  subex_limited: "https://www.tradingview.com/chart/?symbol=NSE%3ASUBEX",
+  infomedia_18: "https://www.tradingview.com/chart/?symbol=NSE%3AIFINSEC",
+
+  // Emerging / Mid Caps / Niche
+  blue_star: "https://www.tradingview.com/chart/?symbol=NSE%3ABLUESTARCO",
+  cyber_media_research: "https://www.tradingview.com/chart/?symbol=NSE%3ACYBERMEDIA",
+  coforge_ltd: "https://www.tradingview.com/chart/?symbol=NSE%3ACOFORGE",
+  ntt_data_india: "https://www.tradingview.com/chart/?symbol=NSE%3ANTTDATA",
+  allsec_technologies: "https://www.tradingview.com/chart/?symbol=NSE%3AALLSEC",
+  sonata_software: "https://www.tradingview.com/chart/?symbol=NSE%3ASONATA",
+  hcl_technologies: "https://www.tradingview.com/chart/?symbol=NSE%3AHCLTECH",
+  birla_corp: "https://www.tradingview.com/chart/?symbol=NSE%3ABIRLACORPN",
+  hdfc_life: "https://www.tradingview.com/chart/?symbol=NSE%3AHDFCLIFE",
+  ipca_labs: "https://www.tradingview.com/chart/?symbol=NSE%3AIPCALAB",
+
+  // Telecom + AI infrastructure
+  reliance_industries: "https://www.tradingview.com/chart/?symbol=NSE%3ARELIANCE",
+  bharti_airtel: "https://www.tradingview.com/chart/?symbol=NSE%3AIDEA",
+  idea_cellular: "https://www.tradingview.com/chart/?symbol=NSE%3AIDEA",
+  tata_communications: "https://www.tradingview.com/chart/?symbol=NSE%3ATATACOMM",
+
+  // Digital Payments & FinTech with AI adoption
+  paytm: "https://www.tradingview.com/chart/?symbol=NSE%3APAYTM",
+  bajaj_finserv: "https://www.tradingview.com/chart/?symbol=NSE%3ABAFINSERV",
+  info_edge: "https://www.tradingview.com/chart/?symbol=NSE%3AINFOTECH",
+
+  // Cloud & Data Centers / IT Infrastructure (some private/not listed)
+  // equinix_india, ctrlS_datacenters
+
+  // Others
+  tcs_electric: "https://www.tradingview.com/chart/?symbol=NSE%3ATCSEL",
+  astral_ltd: "https://www.tradingview.com/chart/?symbol=NSE%3AASTRAL",
+  intas_pharma: "https://www.tradingview.com/chart/?symbol=NSE%3AINTAS",
+  eclerx_services: "https://www.tradingview.com/chart/?symbol=NSE%3AECLERX",
+  mindspace_business_park: "https://www.tradingview.com/chart/?symbol=NSE%3AMINDSPACE",
+  makemytrip: "https://www.tradingview.com/chart/?symbol=NSE%3AMAKE",
+  housing_development_finance_corp: "https://www.tradingview.com/chart/?symbol=NSE%3AHDFC",
+  indiamart_intermesh: "https://www.tradingview.com/chart/?symbol=NSE%3AINDIAMART",
+
+  // Additional Indian Mid/Small Cap Tech & Software Firms:
+  datamatics_global_services: "https://www.tradingview.com/chart/?symbol=NSE%3ADATAMATICS",
+  intellect_design: "https://www.tradingview.com/chart/?symbol=NSE%3AINTELLECT",
+  quickheal: "https://www.tradingview.com/chart/?symbol=NSE%3AQUICKHEAL",
+  roha_dyes_chemicals: "https://www.tradingview.com/chart/?symbol=NSE%3AROHA",
+  nasscom: "https://www.tradingview.com/chart/?symbol=NSE%3ANASSCOM", // (Hypothetical ticker - NASSCOM is an association, no ticker)
+  ujjivan_financial_services: "https://www.tradingview.com/chart/?symbol=NSE%3AUJJIVAN",
+  g_m_raptor_technologies: "https://www.tradingview.com/chart/?symbol=NSE%3AGMRAPTOR",
+  honeywell_automation: "https://www.tradingview.com/chart/?symbol=NSE%3AHONEYWELL",
+  infobeans_technologies: "https://www.tradingview.com/chart/?symbol=NSE%3AINFBEANS",
+  aurionpro_solutions: "https://www.tradingview.com/chart/?symbol=NSE%3AAURIONPRO",
+  jkt_financial_services: "https://www.tradingview.com/chart/?symbol=NSE%3AJKTFIN",
+  s&p_global_india: "https://www.tradingview.com/chart/?symbol=NSE%3ASPGLOBAL",
+
+  // Niche IT & AI-related firms
+  globals_inc: "https://www.tradingview.com/chart/?symbol=NSE%3AGLOBALS",
+  veritas_technologies: "https://www.tradingview.com/chart/?symbol=NSE%3AVERITAS",
+  verifone_india: "https://www.tradingview.com/chart/?symbol=NSE%3AVERIFONE",
+  zensar_technologies: "https://www.tradingview.com/chart/?symbol=NSE%3AZENSARTECH",
+  tata_elxsi: "https://www.tradingview.com/chart/?symbol=NSE%3ATATAELXSI",
+  eos_power: "https://www.tradingview.com/chart/?symbol=NSE%3AEOSPOWER"
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{
+  // Indian Large Caps + Mid Caps (NSE symbols)
+  reliance_industries: "https://www.tradingview.com/chart/?symbol=NSE%3ARELIANCE",
+  tata_steel: "https://www.tradingview.com/chart/?symbol=NSE%3ATATASTEEL",
+  infosys: "https://www.tradingview.com/chart/?symbol=NSE%3AINFY",
+  hdfc_bank: "https://www.tradingview.com/chart/?symbol=NSE%3AHDFCBANK",
+  icici_bank: "https://www.tradingview.com/chart/?symbol=NSE%3AICICIBANK",
+  bharat_petroleum: "https://www.tradingview.com/chart/?symbol=NSE%3ABPCL",
+  state_bank_india: "https://www.tradingview.com/chart/?symbol=NSE%3ASBIN",
+  kotak_bank: "https://www.tradingview.com/chart/?symbol=NSE%3AKOTAKBANK",
+  axis_bank: "https://www.tradingview.com/chart/?symbol=NSE%3AAXISBANK",
+  maruti_suzuki: "https://www.tradingview.com/chart/?symbol=NSE%3AMARUTI",
+  tata_motors: "https://www.tradingview.com/chart/?symbol=NSE%3ATATAMOTORS",
+  mahindra_and_mahindra: "https://www.tradingview.com/chart/?symbol=NSE%3AM&M",
+  housing_development_finance: "https://www.tradingview.com/chart/?symbol=NSE%3AHDFC",
+  sun_pharma: "https://www.tradingview.com/chart/?symbol=NSE%3ASUNPHARMA",
+  lupin: "https://www.tradingview.com/chart/?symbol=NSE%3ALUPIN",
+  wipro: "https://www.tradingview.com/chart/?symbol=NSE%3AWIPRO",
+  dr_reddys: "https://www.tradingview.com/chart/?symbol=NSE%3ADRL",
+  hindustan_unilever: "https://www.tradingview.com/chart/?symbol=NSE%3AHINDUNILVR",
+  asian_paints: "https://www.tradingview.com/chart/?symbol=NSE%3AAPNT",
+  bajaj_auto: "https://www.tradingview.com/chart/?symbol=NSE%3ABAJAJAUTO",
+  ultra_tech_cement: "https://www.tradingview.com/chart/?symbol=NSE%3AULTRACEMCO",
+  divi_laboratories: "https://www.tradingview.com/chart/?symbol=NSE%3ADIVISLAB",
+  tech_mahindra: "https://www.tradingview.com/chart/?symbol=NSE%3ATECHM",
+  indusind_bank: "https://www.tradingview.com/chart/?symbol=NSE%3AINDUSINDBK",
+  bharti_airtel: "https://www.tradingview.com/chart/?symbol=NSE%3AIDEA",
+  tata_consultancy_services: "https://www.tradingview.com/chart/?symbol=NSE%3ATCS",
+  power_grid: "https://www.tradingview.com/chart/?symbol=NSE%3APOWERGRID",
+  ntpc: "https://www.tradingview.com/chart/?symbol=NSE%3ANTPC",
+  coal_india: "https://www.tradingview.com/chart/?symbol=NSE%3ACOALINDIA",
+  bajaj_finance: "https://www.tradingview.com/chart/?symbol=NSE%3ABAJFINANCE",
+  bajaj_finserv: "https://www.tradingview.com/chart/?symbol=NSE%3ABAJFINANCE",
+  pidilite_industries: "https://www.tradingview.com/chart/?symbol=NSE%3APIDILITIND",
+  godrej_consumer: "https://www.tradingview.com/chart/?symbol=NSE%3AGODREJCP",
+  ultra_tech_cement: "https://www.tradingview.com/chart/?symbol=NSE%3AULTRACEMCO",
+  siemens_india: "https://www.tradingview.com/chart/?symbol=NSE%3ASIEMENS",
+
+  // Indian Indices & ETFs
+  nifty_50: "https://www.tradingview.com/chart/?symbol=NSE%3ANIFTY",
+  nifty_bank: "https://www.tradingview.com/chart/?symbol=NSE%3ANIFTYBANK",
+  nifty_midcap_50: "https://www.tradingview.com/chart/?symbol=NSE%3ANIFTYMID50",
+  nifty_next_50: "https://www.tradingview.com/chart/?symbol=NSE%3ANIFTY500",
+  sensex: "https://www.tradingview.com/chart/?symbol=BSE%3ABSESN",
+
+  // More US Stocks
+  facebook: "https://www.tradingview.com/chart/?symbol=NASDAQ%3AMETA",
+  nvidia: "https://www.tradingview.com/chart/?symbol=NASDAQ%3ANVDA",
+  adobe: "https://www.tradingview.com/chart/?symbol=NASDAQ%3AADBE",
+  paypal: "https://www.tradingview.com/chart/?symbol=NASDAQ%3APYPL",
+  salesforce: "https://www.tradingview.com/chart/?symbol=NYSE%3ACRM",
+  qualcomm: "https://www.tradingview.com/chart/?symbol=NASDAQ%3AQCOM",
+  broadcom: "https://www.tradingview.com/chart/?symbol=NASDAQ%3AVMW",
+  ibm: "https://www.tradingview.com/chart/?symbol=NYSE%3AIBM",
+  cisco: "https://www.tradingview.com/chart/?symbol=NASDAQ%3ACSCO",
+  walmart: "https://www.tradingview.com/chart/?symbol=NYSE%3AWMT",
+  disney: "https://www.tradingview.com/chart/?symbol=NYSE%3ADIS",
+  mcdonalds: "https://www.tradingview.com/chart/?symbol=NYSE%3AMCD",
+  netflix: "https://www.tradingview.com/chart/?symbol=NASDAQ%3ANFLX",
+
+  // ETFs
+  spy: "https://www.tradingview.com/chart/?symbol=SPY",
+  qqq: "https://www.tradingview.com/chart/?symbol=QQQ",
+  dia: "https://www.tradingview.com/chart/?symbol=DIA",
+  vti: "https://www.tradingview.com/chart/?symbol=NASDAQ%3AVTI",
+  iwm: "https://www.tradingview.com/chart/?symbol=NYSEARCA%3AIWM",
+
+  // Indices
+  dow_jones: "https://www.tradingview.com/chart/?symbol=INDEX%3ADJI",
+  nasdaq_100: "https://www.tradingview.com/chart/?symbol=INDEX%3ANDX",
+  russell_2000: "https://www.tradingview.com/chart/?symbol=INDEX%3ARUT",
+  s_p_500: "https://www.tradingview.com/chart/?symbol=INDEX%3ASPX",
+
+  // Commodities
+  gold: "https://www.tradingview.com/chart/?symbol=GOLD",
+  silver: "https://www.tradingview.com/chart/?symbol=SILVER",
+  crude_oil: "https://www.tradingview.com/chart/?symbol=CL1!",
+  natural_gas: "https://www.tradingview.com/chart/?symbol=NG1!",
+  copper: "https://www.tradingview.com/chart/?symbol=HG1!",
+  platinum: "https://www.tradingview.com/chart/?symbol=PL1!",
+  aluminium: "https://www.tradingview.com/chart/?symbol=LME%3AALI",
+
+  // Forex Pairs
+  eur_usd: "https://www.tradingview.com/chart/?symbol=FX%3AEURUSD",
+  gbp_usd: "https://www.tradingview.com/chart/?symbol=FX%3AGBPUSD",
+  usd_jpy: "https://www.tradingview.com/chart/?symbol=FX%3AUSDJPY",
+  aud_usd: "https://www.tradingview.com/chart/?symbol=FX%3AAUDUSD",
+  usd_cad: "https://www.tradingview.com/chart/?symbol=FX%3AUSDCAD",
+  nzd_usd: "https://www.tradingview.com/chart/?symbol=FX%3ANZDUSD",
+  usd_inr: "https://www.tradingview.com/chart/?symbol=FX%3AUSDINR",
+
+  // Crypto
+  bitcoin: "https://www.tradingview.com/chart/?symbol=BTCUSD",
+  ethereum: "https://www.tradingview.com/chart/?symbol=ETHUSD",
+  dogecoin: "https://www.tradingview.com/chart/?symbol=DOGEUSD",
+  cardano: "https://www.tradingview.com/chart/?symbol=ADAUSD",
+  litecoin: "https://www.tradingview.com/chart/?symbol=LTCUSD",
+  ripple: "https://www.tradingview.com/chart/?symbol=XRPUSD",
+  tether: "https://www.tradingview.com/chart/?symbol=USDTUSD",
+  binance_coin: "https://www.tradingview.com/chart/?symbol=BNBUSD",
+  bitcoin_cash: "https://www.tradingview.com/chart/?symbol=BCHUSD",
+  eos: "https://www.tradingview.com/chart/?symbol=EOSUSD",
+  stellar: "https://www.tradingview.com/chart/?symbol=XLMUSD",
+  vechain: "https://www.tradingview.com/chart/?symbol=VETUSD",
+  polkadot: "https://www.tradingview.com/chart/?symbol=DOTUSD",
+  uniswap: "https://www.tradingview.com/chart/?symbol=UNIUSD",
+  chainlink: "https://www.tradingview.com/chart/?symbol=LINKUSD"
+}
+
+
+
+
+
+
+
+
+
+
+{
+  // Banking & Financials
+  indusind_bank: "https://www.tradingview.com/chart/?symbol=NSE%3AINDUSINDBK",
+  federal_bank: "https://www.tradingview.com/chart/?symbol=NSE%3AFEDERALBNK",
+  yes_bank: "https://www.tradingview.com/chart/?symbol=NSE%3AYESBANK",
+  bandhan_bank: "https://www.tradingview.com/chart/?symbol=NSE%3ABANDHANBNK",
+  idfc_first_bank: "https://www.tradingview.com/chart/?symbol=NSE%3AIDFCFIRSTB",
+  canara_bank: "https://www.tradingview.com/chart/?symbol=NSE%3ACANBK",
+  union_bank_india: "https://www.tradingview.com/chart/?symbol=NSE%3AUBANK",
+  pune_industrial_coop_bank: "https://www.tradingview.com/chart/?symbol=NSE%3APUNIND",
+  
+  // Pharmaceuticals & Healthcare
+  cipla: "https://www.tradingview.com/chart/?symbol=NSE%3ACIPLA",
+  glaxosmithkline_pharma: "https://www.tradingview.com/chart/?symbol=NSE%3AGSKCONS",
+  astral_ltd: "https://www.tradingview.com/chart/?symbol=NSE%3AASTRAL",
+  dr_reddys_labs: "https://www.tradingview.com/chart/?symbol=NSE%3ADRL",
+  sun_pharma: "https://www.tradingview.com/chart/?symbol=NSE%3ASUNPHARMA",
+  aurobindo_pharma: "https://www.tradingview.com/chart/?symbol=NSE%3AAUROPHARMA",
+  lupin: "https://www.tradingview.com/chart/?symbol=NSE%3ALUPIN",
+  
+  // IT & Tech
+  infosys: "https://www.tradingview.com/chart/?symbol=NSE%3AINFY",
+  tata_consultancy_services: "https://www.tradingview.com/chart/?symbol=NSE%3ATCS",
+  tech_mahindra: "https://www.tradingview.com/chart/?symbol=NSE%3ATECHM",
+  wipro: "https://www.tradingview.com/chart/?symbol=NSE%3AWIPRO",
+  mindtree: "https://www.tradingview.com/chart/?symbol=NSE%3AMINDTREE",
+  persistent_systems: "https://www.tradingview.com/chart/?symbol=NSE%3APERSISTENT",
+  larsen_toubro_infotech: "https://www.tradingview.com/chart/?symbol=NSE%3ALTI",
+  
+  // FMCG & Consumer Goods
+  hindustan_unilever: "https://www.tradingview.com/chart/?symbol=NSE%3AHINDUNILVR",
+  nestle_india: "https://www.tradingview.com/chart/?symbol=NSE%3ANESTLEIND",
+  dabur_india: "https://www.tradingview.com/chart/?symbol=NSE%3ADABUR",
+  godrej_consumer_products: "https://www.tradingview.com/chart/?symbol=NSE%3AGODREJCP",
+  marico: "https://www.tradingview.com/chart/?symbol=NSE%3AMARICO",
+  Britannia_Industries: "https://www.tradingview.com/chart/?symbol=NSE%3ABRITANNIA",
+  tata_consumer_products: "https://www.tradingview.com/chart/?symbol=NSE%3ATATACONSUM",
+  
+  // Infrastructure, Metals & Energy
+  larsen_toubro: "https://www.tradingview.com/chart/?symbol=NSE%3ALT",
+  coal_india: "https://www.tradingview.com/chart/?symbol=NSE%3ACOALINDIA",
+  ntpc: "https://www.tradingview.com/chart/?symbol=NSE%3ANTPC",
+  power_grid: "https://www.tradingview.com/chart/?symbol=NSE%3APOWERGRID",
+  oil_and_natural_gas_corp: "https://www.tradingview.com/chart/?symbol=NSE%3AONGC",
+  bharat_heavy_electricals: "https://www.tradingview.com/chart/?symbol=NSE%3ABHEL",
+  jsw_steel: "https://www.tradingview.com/chart/?symbol=NSE%3AJSWSTEEL",
+  hindalco_industries: "https://www.tradingview.com/chart/?symbol=NSE%3AHINDALCO",
+  tata_steel: "https://www.tradingview.com/chart/?symbol=NSE%3ATATASTEEL",
+  vedanta: "https://www.tradingview.com/chart/?symbol=NSE%3AVEDL",
+  
+  // Automobile
+  maruti_suzuki: "https://www.tradingview.com/chart/?symbol=NSE%3AMARUTI",
+  tata_motors: "https://www.tradingview.com/chart/?symbol=NSE%3ATATAMOTORS",
+  hero_motocorp: "https://www.tradingview.com/chart/?symbol=NSE%3AHEROMOTOCO",
+  bajaj_auto: "https://www.tradingview.com/chart/?symbol=NSE%3ABAJAJAUTO",
+  mahindra_and_mahindra: "https://www.tradingview.com/chart/?symbol=NSE%3AM&M",
+  
+  // Telecom
+  bharti_airtel: "https://www.tradingview.com/chart/?symbol=NSE%3AIDEA",
+  reliance_jio: "https://www.tradingview.com/chart/?symbol=NSE%3ARELIANCE",
+
+  // Others / Miscellaneous
+  hindustan_zinc: "https://www.tradingview.com/chart/?symbol=NSE%3AHINDZINC",
+  adani_ports: "https://www.tradingview.com/chart/?symbol=NSE%3AADANIPORTS",
+  inter_globe_aviation: "https://www.tradingview.com/chart/?symbol=NSE%3AINDIGO",
+  pidilite_industries: "https://www.tradingview.com/chart/?symbol=NSE%3APIDILITIND",
+  voltas: "https://www.tradingview.com/chart/?symbol=NSE%3AVOLTAS",
+  bajaj_finance: "https://www.tradingview.com/chart/?symbol=NSE%3ABAJFINANCE",
+  bajaj_finserv: "https://www.tradingview.com/chart/?symbol=NSE%3ABAJFINANCE"
+}
+
+
+
+
+
+
+
+
+
